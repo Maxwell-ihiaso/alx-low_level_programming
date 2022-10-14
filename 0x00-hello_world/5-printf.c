@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main: Entry point for our code
+* main - Entry point for our code
 *
 *Description: Prints to standard output
 *Return: returns success
