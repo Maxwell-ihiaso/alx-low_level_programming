@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - entry point for function
+ * print_alphabet - entry point for function
  *
  * Description: This program will assign a random number
  * to variable n
@@ -16,5 +16,4 @@ for (c = 'a'; c <= 'z'; c++)
 _putchar(c);
 }
 _putchar('\n');
- return;
 }
