@@ -18,7 +18,7 @@ return (n);
 }
 else
 {
-n *= -1
+n *= -1;
 _putchar(n + '0');
 return (n);
 }

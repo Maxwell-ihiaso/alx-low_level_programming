@@ -5,7 +5,8 @@
  * @a: Params 1
  * @b: Params2
  *
- * Description: Prints every minute in the day
+ * Description: Add two numbers together
+ * Return: returns the result of the sum
  */
 int add(int a, int b)
 {
