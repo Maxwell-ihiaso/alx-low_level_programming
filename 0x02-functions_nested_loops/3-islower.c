@@ -3,11 +3,17 @@
 /**
  * _islower - checks for case sensitivity
  *
- * Description: Return 1 for lower case letters 
+ * Description: Return 1 for lower case letters
  * and 0 for otherwise
  * Return: always returns 0
  */
 int _islower(int c)
 {
-  char c;
+if (c >= 'a' && c <= 'z')
+_putchar('1');
+else
+_putchar('0');
+
+_putchar('\n');
+return (0);
 }
