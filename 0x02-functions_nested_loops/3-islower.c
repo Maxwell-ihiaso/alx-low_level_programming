@@ -2,7 +2,7 @@
 
 /**
  * _islower - checks for case sensitivity
- *
+ * @c: expect a value from the user
  * Description: Return 1 for lower case letters
  * and 0 for otherwise
  * Return: always returns 0
