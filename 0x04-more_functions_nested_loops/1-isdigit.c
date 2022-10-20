@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isdigits - cheecks for integers
+ * _isdigit - cheecks for integers
  * @c: params integer
  *
  * Description: Checks for valid numbers
