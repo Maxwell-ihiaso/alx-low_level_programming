@@ -8,8 +8,9 @@
  */
 void _puts(char *str)
 {
-	if (*str == '\0')
-		return;
-	write(1, *str, 1);
-	_puts(++str);
+	int i;
+	
+	for (i = 0; *str[i] != '\0'; i++)
+		_putchar(s[i]);
+
 }
