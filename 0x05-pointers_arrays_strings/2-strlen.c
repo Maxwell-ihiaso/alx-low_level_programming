@@ -8,7 +8,6 @@
  */
 int _strlen(char *s)
 {
-	char Str[1000];
 	int i;
 
 	for (i = 0; *s != '\0'; ++i);
