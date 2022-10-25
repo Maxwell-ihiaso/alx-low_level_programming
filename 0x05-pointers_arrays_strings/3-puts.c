@@ -11,5 +11,5 @@ void _puts(char *str)
 	if (*str == '\0')
 		return;
 	_putchar(*str);
-	_puts(++t);
+	_puts(++str);
 }
