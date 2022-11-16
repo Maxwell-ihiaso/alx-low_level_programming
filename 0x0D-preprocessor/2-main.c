@@ -7,5 +7,5 @@
  */
 int main(void)
 {
-	priftf("%s\n", __FILE__);
+	printf("%s\n", __FILE__);
 }
